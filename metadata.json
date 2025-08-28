@@ -1,0 +1,6 @@
+{
+  "name": "SmartGen Interview",
+  "description": "An AI-powered interview simulator that provides dynamic follow-up questions and comprehensive feedback. Users can configure the interviewer's persona based on a specific company and job role.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
